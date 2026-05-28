@@ -1,4 +1,9 @@
-// 3. Operadores lógicos
+programa {
+  funcao inicio() {
+    
+    // 3. Operadores lógicos
 se (portaFechada = verdadeiro E botaoSeguranca = verdadeiro) entao
    escreva("Máquina ligada")
 fimse
+  }
+}
