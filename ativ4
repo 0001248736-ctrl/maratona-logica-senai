@@ -1,0 +1,4 @@
+// 4. Estrutura de repetição
+enquanto (producao = verdadeiro) faca
+   escreva("Produzindo...")
+fimenquanto
