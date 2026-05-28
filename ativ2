@@ -1,0 +1,3 @@
+// 2. Comando leia()
+escreva("Digite sua idade: ")
+leia(idade)
