@@ -1,0 +1,7 @@
+inicio
+
+// 1. Variável e constante
+// Variável muda de valor
+temperatura <- 30
+/ Constante possui valor fixo
+constante LIMITE = 40
