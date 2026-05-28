@@ -1,3 +1,5 @@
-// 2. Comando leia()
+programa {
+  funcao inicio() {
+    // 2. Comando leia()
 escreva("Digite sua idade: ")
 leia(idade)
